@@ -1,0 +1,10 @@
+AJBC_GCAv2
+CG
+FDDB_hapA_v2
+FDDB_hapB_v2
+JGY_hapA
+JGY_hapB
+QC1
+RG
+YWXY
+ZJ_GCAv2
